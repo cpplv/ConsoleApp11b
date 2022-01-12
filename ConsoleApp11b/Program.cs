@@ -12,6 +12,7 @@ namespace ConsoleApp11b
         {
             Console.WriteLine("Sveiks no Andreja\n");
             Console.WriteLine("Sveiks no Kristapa\n");
+            Console.WriteLine("Sveiks no Roberta\n");
         }
     }
 }
